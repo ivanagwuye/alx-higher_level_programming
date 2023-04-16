@@ -1,3 +1,5 @@
-var myVar = "Javascript is amazing";
+#!/usr/bin/node
+
+let myVar = "Javascript is amazing";
 
 console.log(myVar);
